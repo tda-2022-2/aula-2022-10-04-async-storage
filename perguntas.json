@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "enunciado": "No React tudo é um ...",
+        "respostas": [
+            {
+                "texto": "Hook",
+                "correta": false
+            },
+            {
+                "texto": "Componente",
+                "correta": true
+            },
+            {
+                "texto": "Função",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "enunciado": "No Ruby tudo é um ...",
+        "respostas": [
+            {
+                "texto": "atomo",
+                "correta": false
+            },
+            {
+                "texto": "método",
+                "correta": false
+            },
+            {
+                "texto": "objeto",
+                "correta": true
+            }
+        ]
+    }
+]
